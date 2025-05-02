@@ -1,0 +1,18 @@
+# Xcodeユーザーごとの設定（絶対にコミットしない）
+Household accounting app.xcodeproj/xcuserdata/
+Household accounting app.xcodeproj/project.xcworkspace/xcuserdata/
+Household accounting app.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# Xcodeが生成するワークスペース設定（個人設定なので不要）
+Household accounting app.xcodeproj/project.xcworkspace/xcshareddata/
+
+# Swift Package Managerのビルド成果物
+.build/
+
+# Xcodeのビルド成果物
+DerivedData/
+build/
+
+# その他
+.DS_Store
+
